@@ -10,7 +10,7 @@ Ovo je moj prvi projekat gde učim osnove GitHub-a.
 - [x] Napraviti repozitorijum
 - [x] Dodati prvi README fajl
 - [x] Naučiti kako se izmenjuju fajlovi
-- [ ] Napraviti novu granu (Branch)
+- [x] Napraviti novu granu (Branch)
 
 ---
 *Kreirano uz pomoć GitHub vodiča.*
